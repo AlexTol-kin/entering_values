@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/entering_values/static/css/main.081b2495.css",
+    "main.js": "/entering_values/static/js/main.ef4874fe.js",
+    "index.html": "/entering_values/index.html",
+    "main.081b2495.css.map": "/entering_values/static/css/main.081b2495.css.map",
+    "main.ef4874fe.js.map": "/entering_values/static/js/main.ef4874fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081b2495.css",
+    "static/js/main.ef4874fe.js"
+  ]
+}
